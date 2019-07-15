@@ -4,6 +4,6 @@ if (n.isalpha()):
     if (n in vowels):
         print("vowel")
     else:
-        print("consonant")
+        print("Consonant")
 else:
     print("invalid")
