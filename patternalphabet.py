@@ -2,7 +2,7 @@ i = input()
 sum = 0
 x = i - 1
 revsum = i - 1
-space = i - 1k
+space = i - 1
 revspace = 1
 for z in range(0,i):
     j = 65 + z
